@@ -1,0 +1,13 @@
+(module MountingHole_3-5mm_RevA_Date21Jun2010 (layer F.Cu)
+  (at 0 0)
+  (descr "Mounting hole, Befestigungsbohrung, 3,5mm, No Annular, Kein Restring,")
+  (tags "Mounting hole, Befestigungsbohrung, 3,5mm, No Annular, Kein Restring,")
+  (fp_text reference MH (at 0 -4.50088) (layer F.SilkS)
+    (effects (font (thickness 0.3048)))
+  )
+  (fp_text value MountingHole_3-5mm_RevA_Date21Jun2010 (at 0 5.00126) (layer F.SilkS) hide
+    (effects (font (thickness 0.3048)))
+  )
+  (fp_circle (center 0 0) (end 3.50012 0) (layer Cmts.User) (width 0.381))
+  (pad 1 thru_hole circle (at 0 0) (size 3.50012 3.50012) (drill 3.50012) (layers))
+)
