@@ -1,4 +1,4 @@
-(module MountingHole_5mm_Pad (layer F.Cu) (tedit 568A94C7)
+(module MountingHole_5mm_Pad (layer F.Cu) (tedit 56D1B4CB)
   (at 0 0)
   (descr "Mounting Hole 5mm")
   (tags "mounting hole 5mm")
