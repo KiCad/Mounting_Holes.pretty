@@ -10,5 +10,5 @@
   )
   (fp_circle (center 0 0) (end 2.85 0) (layer Cmts.User) (width 0.15))
   (fp_circle (center 0 0) (end 3.1 0) (layer F.CrtYd) (width 0.05))
-  (pad 1 np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2) (layers *.Cu *.Mask))
 )
