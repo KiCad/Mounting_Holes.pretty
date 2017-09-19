@@ -1,4 +1,5 @@
 (module MountingHole_6.4mm_M6 (layer F.Cu) (tedit 56D1B4CB)
+  (attr virtual)
   (descr "Mounting Hole 6.4mm, no annular, M6")
   (tags "mounting hole 6.4mm no annular m6")
   (fp_text reference REF** (at 0 -7.4) (layer F.SilkS)

@@ -1,4 +1,5 @@
 (module MountingHole_2.2mm_M2_Pad (layer F.Cu) (tedit 56D1B4CB)
+  (attr virtual)
   (descr "Mounting Hole 2.2mm, M2")
   (tags "mounting hole 2.2mm m2")
   (fp_text reference REF** (at 0 -3.2) (layer F.SilkS)

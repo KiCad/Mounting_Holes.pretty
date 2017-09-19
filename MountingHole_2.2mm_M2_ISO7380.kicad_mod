@@ -1,4 +1,5 @@
 (module MountingHole_2.2mm_M2_ISO7380 (layer F.Cu) (tedit 56D1B4CB)
+  (attr virtual)
   (descr "Mounting Hole 2.2mm, no annular, M2, ISO7380")
   (tags "mounting hole 2.2mm no annular m2 iso7380")
   (fp_text reference REF** (at 0 -2.75) (layer F.SilkS)
